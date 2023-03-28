@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 47: is not terminated with a newline. (Check strings and parenthesis.)
-(Perhaps you left out a " at the end of the first line.)
-        "You decide not to take the advice of a stranger. After all, how do you know she's not lying? You continue to wander aimlessly around the cell until you come across a truck that says Liver Brigade on it.'
+File "game/script.rpy", line 83: expected ':' not found.
+    label serine
+                ^
+
+File "game/script.rpy", line 85: expected ':' not found.
+    label phosphoenolpyruvate
+                             ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Sat Mar 25 09:59:12 2023
+Tue Mar 28 15:42:04 2023
