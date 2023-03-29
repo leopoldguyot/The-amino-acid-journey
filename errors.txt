@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 83: expected ':' not found.
-    label serine
-                ^
-
-File "game/script.rpy", line 85: expected ':' not found.
-    label phosphoenolpyruvate
-                             ^
+File "game/script.rpy", line 608: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        Ornithine "I'm not really interested by that. I think I will stay here.""
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Tue Mar 28 15:42:04 2023
+Wed Mar 29 14:15:07 2023

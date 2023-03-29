@@ -1,0 +1,20 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 146, in script
+    3_phosphoserine "Sometimes things happen by chance !"
+Exception: Sayer b'3' is not a function or string.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 146, in script
+    3_phosphoserine "Sometimes things happen by chance !"
+  File "/home/leopoldguyot/.local/manually_installed/renpy-8.0.3-sdk/renpy/ast.py", line 898, in execute
+    raise Exception("Sayer %s is not a function or string." % self.who.encode("utf-8"))
+Exception: Sayer b'3' is not a function or string.
+
+Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35 x86_64
+Ren'Py 8.0.3.22090809
+The amino acid journey 0.1
+Wed Mar 29 00:37:57 2023

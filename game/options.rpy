@@ -23,13 +23,17 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "0.1"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
+The amino acid journey visual novel is a game created for the LCHM1371b course of the University of Louvain-la-neuve.
+
+Created by Elfie Gashi Vandenhove, Léopold Guyot, Paulin Fournaux, Stéphane Hiernaux and Alizée Harte
+
 """)
 
 
@@ -48,7 +52,7 @@ define build.name = "Theaminoacidjourney"
 
 define config.has_sound = True
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
