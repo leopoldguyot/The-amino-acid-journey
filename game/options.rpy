@@ -32,8 +32,9 @@ define config.version = "0.1"
 define gui.about = _p("""
 The amino acid journey visual novel is a game created for the LCHM1371b course of the University of Louvain-la-neuve.
 
-Created by Elfie Gashi Vandenhove, Léopold Guyot, Paulin Fournaux, Stéphane Hiernaux and Alizée Harte
+Created by Elfie Gashi Vandenhove, Léopold Guyot, Paulin Fournaux, Stéphane Hiernaux and Alizée Harte.
 
+Music by SergeQuadrado from Pixabay.
 """)
 
 
