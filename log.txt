@@ -1,55 +1,33 @@
-Wed Mar 29 16:15:59 2023
+Thu Mar 30 18:58:26 2023
 Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35
-Ren'Py 8.0.3.22090809
+Ren'Py 8.1.0.23033002+nightly
  
 
-Bootstrap to the start of init.init took 0.03s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.02s
-Loading script took 0.05s
-Loading save slot metadata. took 0.01s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/leopoldguyot/.local/manually_installed/renpy-8.0.3-sdk/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
+Bootstrap to the start of init.init. took 0.02s
+Early init. took 0.00s
+Loader init. took 0.00s
+Loading error handling. took 0.06s
+Loading script. took 0.80s
+Loading save slot metadata. took 0.02s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.00s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.01s
 Index archives took 0.00s
+Backing up script files to '/home/leopoldguyot/.renpy/backups/The amino acid journey':
 Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
 Initial gc. took 0.01s
 DPI scale factor: 1.000000
-Creating interface object took 0.00s
+Creating interface object. took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.02s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.08s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1920, 1080)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Intel'"
-Renderer: b'Mesa Intel(R) Graphics (ADL GT2)'
-Version: b'4.6 (Compatibility Profile) Mesa 22.3.5'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1739, 978) drawable=(1739, 978)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(1920, 1011) drawable=(1920, 1011)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
