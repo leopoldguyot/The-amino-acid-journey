@@ -18,14 +18,14 @@ define config.name = _("The amino acid journey")
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
 
-define config.version = "0.1"
+define config.version = "1"
 
-
+define build.itch_project = "Coronado/the-amino-acid-journey"
 ## Text that is placed on the game's about screen. Place the text between the
 ## triple-quotes, and leave a blank line between paragraphs.
 
@@ -35,6 +35,8 @@ The amino acid journey visual novel is a game created for the LCHM1371b course o
 Created by Elfie Gashi Vandenhove, Léopold Guyot, Paulin Fournaux, Stéphane Hiernaux and Alizée Harte.
 
 Music by SergeQuadrado from Pixabay.
+
+And thanks to My Kim and Kiarash for the drawings of Asparagine, Sérine and Phosphosérine transférase !
 """)
 
 

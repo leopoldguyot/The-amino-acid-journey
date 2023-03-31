@@ -1,4 +1,4 @@
-Thu Mar 30 18:58:26 2023
+Fri Mar 31 14:37:39 2023
 Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35
 Ren'Py 8.1.0.23033002+nightly
  
@@ -12,7 +12,7 @@ Loading save slot metadata. took 0.02s
 Loading persistent. took 0.00s
 Running init code. took 0.05s
 Loading analysis data. took 0.00s
-Analyze and compile ATL. took 0.01s
+Analyze and compile ATL. took 0.00s
 Reloading save slot metadata. took 0.01s
 Index archives took 0.00s
 Backing up script files to '/home/leopoldguyot/.renpy/backups/The amino acid journey':
